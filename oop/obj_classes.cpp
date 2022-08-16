@@ -5,7 +5,6 @@ class Box{
 
 	public:
 	double lenght,breadth,height;
-	double weight;
 	
 	double volume() {
 		assert(lenght>0);
