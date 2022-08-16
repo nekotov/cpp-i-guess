@@ -20,7 +20,7 @@ int main(){
 	Box b1;
 	b1.lenght = 5;
 	b1.breadth=15;
-	b1.height=3;
+	b1.height=10;
 
 	std::cout << b1.volume() << "\n";
 }
